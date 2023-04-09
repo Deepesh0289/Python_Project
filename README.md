@@ -22,10 +22,10 @@ Step 7: Draw the conclusions
 And the Project is Completed.
 
 Screnshots:
-('https://github.com/Deepesh0289/Python_Project/blob/main/Screenshot%20(189).png')
-('https://github.com/Deepesh0289/Python_Project/blob/main/Screenshot%20(190).png')
-('https://github.com/Deepesh0289/Python_Project/blob/main/Screenshot%20(191).png')
-('https://github.com/Deepesh0289/Python_Project/blob/main/Screenshot%20(192).png')
+![ss1]('https://github.com/Deepesh0289/Python_Project/blob/main/Screenshot%20(189).png')
+![ss2]('https://github.com/Deepesh0289/Python_Project/blob/main/Screenshot%20(190).png')
+![ss3]('https://github.com/Deepesh0289/Python_Project/blob/main/Screenshot%20(191).png')
+![ss4']('https://github.com/Deepesh0289/Python_Project/blob/main/Screenshot%20(192).png')
 
 If you are facing some issues you can see the ipynb file that is shared in the above zip file and also you can DM me at linkedIN
 (Deepesh0289)['https://www.linkedin.com/in/deepesh-saini-83317b1b9/']
