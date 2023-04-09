@@ -1,9 +1,10 @@
 # Python_Project
-I analyze Diwali sales data and extract the insights form it using python and its libraries.
+I analyze Diwali sales data and extract the insights from it using python and its libraries.
 
 (Dataset)['https://drive.google.com/file/d/1hXjewcGmXMKy6RJnYt2WUpr_fdU_x1h1/view?usp=share_link']
 
-Their are some following steps to complete thsi project.
+
+Their are some following steps to complete this project.
   
   Requirements--
    1. Python
@@ -20,3 +21,5 @@ Step 7: Draw the conclusions
 
 And the Project is Completed
 
+If you are facing some issues you can see the ipynb file that is shared in the above zip file and also you can DM me at linkedIN
+(Deepesh0289)['https://www.linkedin.com/in/deepesh-saini-83317b1b9/']
